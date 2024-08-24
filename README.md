@@ -4,15 +4,15 @@ This cloud-based to-do list app uses HTML, CSS, and JavaScript for the frontend,
 Step for Setuping AWS Amplify Backend
   1. Install Amplify CLI -
        npm install -g @aws-amplify/cli
-  3. Configure Amplify CLI
+  3. Configure Amplify CLI -
        amplify configure
-  5. Initialize Amplify Project
+  5. Initialize Amplify Project -
        amplify init
-  7. Add API
-       amplify add api
-  9. Add Storage
+  7. Add API - 
+       amplify add api 
+  9. Add Storage - 
        amplify add storage
-  11. Deploy Your Backend
+  11. Deploy Your Backend - 
        amplify push
 
 Setuping Frontend And Backend thats it ! 
